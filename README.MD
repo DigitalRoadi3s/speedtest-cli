@@ -6,3 +6,5 @@ $ pip install speedtest-cli
 ```
 
 This will install pip — a package management system for Python — if you don’t already have it installed, and then the speedtest-cli package from the pip repositories.
+
+Then download and adjust this script accordingly.
